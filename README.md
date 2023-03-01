@@ -11,4 +11,4 @@ Even if you use code to manage your fragments, the fragments themselves consist 
 Five. Call the add() method of the fragment transaction instance, passing the resource ID of the view containing the fragment and fragment class instance as arguments.
 6. Call the commit() method of the fragment transaction.
 
-This Reposetory explains how  multiple type of transaction operations occurs while navigating to and fro in Activities and Fragments.
+This Repository explains in Android how  multiple type of transaction operations occurs while navigating to and fro in Activities and Fragments.
